@@ -1,0 +1,63 @@
+{"ts":1373840418692,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1373840422277,"patch":[[{"diffs":[[1,"[\"h1\", \".navigation\"]"]],"start1":0,"start2":0,"length1":0,"length2":21}]],"length":21,"saved":false}
+{"ts":1373953613080,"patch":[[{"diffs":[[0,"[\"h1\", "],[1,"\n"],[0,"\".naviga"]],"start1":0,"start2":0,"length1":15,"length2":16}]],"length":22,"saved":false}
+{"ts":1373953616453,"patch":[[{"diffs":[[0,"igation\""],[1,"\n"],[0,"]"]],"start1":13,"start2":13,"length1":9,"length2":10}]],"length":23,"saved":false}
+{"ts":1373953619893,"patch":[[{"diffs":[[0,"["],[1,"\n    "],[0,"\"h1\", \n\""]],"start1":0,"start2":0,"length1":9,"length2":14}]],"length":28,"saved":false}
+{"ts":1373953622480,"patch":[[{"diffs":[[0," \"h1\", \n"],[1,"    "],[0,"\".naviga"]],"start1":5,"start2":5,"length1":16,"length2":20}]],"length":32,"saved":false}
+{"ts":1373953624804,"patch":[[{"diffs":[[0,"igation\""],[1,",\n    "],[0,"\n]"]],"start1":22,"start2":22,"length1":10,"length2":16}]],"length":38,"saved":false}
+{"ts":1373953626247,"patch":[[{"diffs":[[0,"ation\",\n"],[1,".logo\n.blank\n.about\n.heading\n.subheading\n.pitch\n.video\n.thermometer\n.order\n.social\n.section1\n.section2\n.faq\n.footer"],[0,"    \n]"]],"start1":24,"start2":24,"length1":14,"length2":129}]],"length":153,"saved":false}
+{"ts":1373953631082,"patch":[[{"diffs":[[0,"ation\",\n"],[1,"\"\""],[0,".logo\n.b"]],"start1":24,"start2":24,"length1":16,"length2":18}]],"length":155,"saved":false}
+{"ts":1373953634744,"patch":[[{"diffs":[[0,"ation\",\n"],[-1,"\""],[0,"\".logo\n."]],"start1":24,"start2":24,"length1":17,"length2":16}]],"length":154,"saved":false}
+{"ts":1373953639366,"patch":[[{"diffs":[[0,"\n\".logo\n"],[1,"\"\""],[0,".blank\n."]],"start1":31,"start2":31,"length1":16,"length2":18}]],"length":156,"saved":false}
+{"ts":1373953640722,"patch":[[{"diffs":[[0,"ogo\n"],[-1,"\"\""],[0,".bla"]],"start1":35,"start2":35,"length1":10,"length2":8}]],"length":154,"saved":false}
+{"ts":1373953642796,"patch":[[{"diffs":[[0,"\n\".logo\n"],[1,"\"\""],[0,".blank\n."]],"start1":31,"start2":31,"length1":16,"length2":18}]],"length":156,"saved":false}
+{"ts":1373953644538,"patch":[[{"diffs":[[0,"\n\".logo\n"],[-1,"\""],[0,"\".blank\n"]],"start1":31,"start2":31,"length1":17,"length2":16}]],"length":155,"saved":false}
+{"ts":1373953648648,"patch":[[{"diffs":[[0,"\".blank\n"],[1,"\"\""],[0,".about\n."]],"start1":39,"start2":39,"length1":16,"length2":18}]],"length":157,"saved":false}
+{"ts":1373953649180,"patch":[[{"diffs":[[0,"\".blank\n"],[-1,"\""],[0,"\".about\n"]],"start1":39,"start2":39,"length1":17,"length2":16}]],"length":156,"saved":false}
+{"ts":1373953657065,"patch":[[{"diffs":[[0,"\".about\n"],[1,"\"\""],[0,".heading"]],"start1":47,"start2":47,"length1":16,"length2":18}]],"length":158,"saved":false}
+{"ts":1373953659650,"patch":[[{"diffs":[[0,"heading\n"],[1,"\"\""],[0,".subhead"]],"start1":58,"start2":58,"length1":16,"length2":18},{"diffs":[[0,"heading\n"],[1,"\"\""],[0,".pitch\n."]],"start1":72,"start2":72,"length1":16,"length2":18}]],"length":162,"saved":false}
+{"ts":1373953660159,"patch":[[{"diffs":[[0,"\".pitch\n"],[1,"\"\""],[0,".video\n."]],"start1":81,"start2":81,"length1":16,"length2":18}]],"length":164,"saved":false}
+{"ts":1373953660726,"patch":[[{"diffs":[[0,"\".video\n"],[1,"\"\""],[0,".thermom"]],"start1":90,"start2":90,"length1":16,"length2":18}]],"length":166,"saved":false}
+{"ts":1373953661409,"patch":[[{"diffs":[[0,"mometer\n"],[1,"\"\""],[0,".order\n."]],"start1":105,"start2":105,"length1":16,"length2":18}]],"length":168,"saved":false}
+{"ts":1373953662208,"patch":[[{"diffs":[[0,"\".order\n"],[1,"\"\""],[0,".social\n"]],"start1":114,"start2":114,"length1":16,"length2":18}]],"length":170,"saved":false}
+{"ts":1373953664129,"patch":[[{"diffs":[[0,".social\n"],[1,"\""],[0,".section"]],"start1":124,"start2":124,"length1":16,"length2":17}]],"length":171,"saved":false}
+{"ts":1373953665105,"patch":[[{"diffs":[[0,"ection1\n"],[1,"\""],[0,".section"]],"start1":135,"start2":135,"length1":16,"length2":17},{"diffs":[[0,"ection2\n"],[1,"\"\""],[0,".faq\n.fo"]],"start1":146,"start2":146,"length1":16,"length2":18}]],"length":174,"saved":false}
+{"ts":1373953666021,"patch":[[{"diffs":[[0,"\n\"\".faq\n"],[1,"\"\""],[0,".footer "]],"start1":153,"start2":153,"length1":16,"length2":18}]],"length":176,"saved":false}
+{"ts":1373953671356,"patch":[[{"diffs":[[0,"logo"],[1,"\""],[0,"\n\".blank"],[1,"\""],[0,"\n\".a"]],"start1":34,"start2":34,"length1":16,"length2":18}]],"length":178,"saved":false}
+{"ts":1373953672057,"patch":[[{"diffs":[[0,"\n\".about"],[1,"\""],[0,"\n\"\".head"]],"start1":48,"start2":48,"length1":16,"length2":17}]],"length":179,"saved":false}
+{"ts":1373953673925,"patch":[[{"diffs":[[0,"\"\n\"\".heading"],[1,"\"\""],[0,"\n\"\".subheadi"]],"start1":56,"start2":56,"length1":24,"length2":26}]],"length":181,"saved":false}
+{"ts":1373953675508,"patch":[[{"diffs":[[0,"bheading"],[1,"\"\""],[0,"\n\"\".pitc"]],"start1":76,"start2":76,"length1":16,"length2":18},{"diffs":[[0,"\"\".pitch"],[1,"\"\""],[0,"\n\"\".vide"]],"start1":87,"start2":87,"length1":16,"length2":18}]],"length":185,"saved":false}
+{"ts":1373953676404,"patch":[[{"diffs":[[0,"\"\".video"],[1,"\"\""],[0,"\n\"\".ther"]],"start1":98,"start2":98,"length1":16,"length2":18}]],"length":187,"saved":false}
+{"ts":1373953678346,"patch":[[{"diffs":[[0,"rmometer"],[1,"\"\""],[0,"\n\"\".orde"]],"start1":115,"start2":115,"length1":16,"length2":18},{"diffs":[[0,"\"\".order"],[1,"\"\""],[0,"\n\"\".soci"]],"start1":126,"start2":126,"length1":16,"length2":18}]],"length":191,"saved":false}
+{"ts":1373953679216,"patch":[[{"diffs":[[0,"\".social"],[1,"\"\""],[0,"\n\".secti"]],"start1":138,"start2":138,"length1":16,"length2":18}]],"length":193,"saved":false}
+{"ts":1373953679848,"patch":[[{"diffs":[[0,"section1"],[1,"\""],[0,"\n\".secti"]],"start1":151,"start2":151,"length1":16,"length2":17}]],"length":194,"saved":false}
+{"ts":1373953680478,"patch":[[{"diffs":[[0,"section2"],[1,"\""],[0,"\n\"\".faq\n"]],"start1":163,"start2":163,"length1":16,"length2":17}]],"length":195,"saved":false}
+{"ts":1373953681205,"patch":[[{"diffs":[[0,"\"\n\"\".faq"],[1,"\"\""],[0,"\n\"\".foot"]],"start1":171,"start2":171,"length1":16,"length2":18}]],"length":197,"saved":false}
+{"ts":1373953683017,"patch":[[{"diffs":[[0,"oter    "],[1,"\"\""],[0,"\n]"]],"start1":187,"start2":187,"length1":10,"length2":12}]],"length":199,"saved":false}
+{"ts":1373953686262,"patch":[[{"diffs":[[0,"\".footer"],[-1,"    "],[0,"\"\"\n]"]],"start1":183,"start2":183,"length1":16,"length2":12}]],"length":195,"saved":false}
+{"ts":1373953688709,"patch":[[{"diffs":[[0,"\n\".logo\""],[1,","],[0,"\n\".blank"]],"start1":31,"start2":31,"length1":16,"length2":17}]],"length":196,"saved":false}
+{"ts":1373953693390,"patch":[[{"diffs":[[0,"\".blank\""],[1,","],[0,"\n\".about"]],"start1":41,"start2":41,"length1":16,"length2":17},{"diffs":[[0,"\".about\""],[1,","],[0,"\n\"\".head"]],"start1":51,"start2":51,"length1":16,"length2":17}]],"length":198,"saved":false}
+{"ts":1373953695900,"patch":[[{"diffs":[[0,"\"\".heading\"\""],[1,","],[0,"\n\"\".subheadi"]],"start1":61,"start2":61,"length1":24,"length2":25}]],"length":199,"saved":false}
+{"ts":1373953697232,"patch":[[{"diffs":[[0,"eading\"\""],[1,","],[0,"\n\"\".pitc"]],"start1":82,"start2":82,"length1":16,"length2":17},{"diffs":[[0,".pitch\"\""],[1,","],[0,"\n\"\".vide"]],"start1":94,"start2":94,"length1":16,"length2":17}]],"length":201,"saved":false}
+{"ts":1373953699534,"patch":[[{"diffs":[[0,"\".video\""],[-1,"\""],[1,","],[0,"\n\"\".ther"]],"start1":105,"start2":105,"length1":17,"length2":17}]],"length":201,"saved":false}
+{"ts":1373953701990,"patch":[[{"diffs":[[0,"mometer\""],[-1,"\""],[1,","],[0,"\n\"\".orde"]],"start1":122,"start2":122,"length1":17,"length2":17},{"diffs":[[0,"\".order\""],[-1,"\""],[1,","],[0,"\n\"\".soci"]],"start1":133,"start2":133,"length1":17,"length2":17}]],"length":201,"saved":false}
+{"ts":1373953705624,"patch":[[{"diffs":[[0,".social\""],[-1,"\""],[0,"\n\".secti"]],"start1":145,"start2":145,"length1":17,"length2":16}]],"length":200,"saved":false}
+{"ts":1373953706663,"patch":[[{"diffs":[[0,".social\""],[1,","],[0,"\n\".secti"]],"start1":145,"start2":145,"length1":16,"length2":17},{"diffs":[[0,"ection1\""],[1,","],[0,"\n\".secti"]],"start1":158,"start2":158,"length1":16,"length2":17}]],"length":202,"saved":false}
+{"ts":1373953707522,"patch":[[{"diffs":[[0,"ection2\""],[1,","],[0,"\n\"\".faq\""]],"start1":171,"start2":171,"length1":16,"length2":17}]],"length":203,"saved":false}
+{"ts":1373953709391,"patch":[[{"diffs":[[0,"\n\"\".faq\""],[-1,"\""],[1,","],[0,"\n\"\".foot"]],"start1":180,"start2":180,"length1":17,"length2":17}]],"length":203,"saved":false}
+{"ts":1373953711350,"patch":[[{"diffs":[[0,".footer\""],[-1,"\""],[1,","],[0,"\n]"]],"start1":192,"start2":192,"length1":11,"length2":11}]],"length":203,"saved":false}
+{"ts":1373953713717,"patch":[[{"diffs":[[0,"\".faq\",\n"],[-1,"\""],[0,"\".footer"]],"start1":182,"start2":182,"length1":17,"length2":16}]],"length":202,"saved":false}
+{"ts":1373953715760,"patch":[[{"diffs":[[0,"tion2\",\n"],[-1,"\""],[0,"\".faq\",\n"]],"start1":173,"start2":173,"length1":17,"length2":16}]],"length":201,"saved":false}
+{"ts":1373953717975,"patch":[[{"diffs":[[0,"order\",\n"],[-1,"\""],[0,"\".social"]],"start1":135,"start2":135,"length1":17,"length2":16}]],"length":200,"saved":false}
+{"ts":1373953720678,"patch":[[{"diffs":[[0,"meter\",\n"],[-1,"\""],[0,"\".order\""]],"start1":124,"start2":124,"length1":17,"length2":16}]],"length":199,"saved":false}
+{"ts":1373953723630,"patch":[[{"diffs":[[0,"deo\",\n\"\""],[1,"\\"],[0,".thermom"]],"start1":109,"start2":109,"length1":16,"length2":17}]],"length":200,"saved":false}
+{"ts":1373953724596,"patch":[[{"diffs":[[0,"\",\n\""],[-1,"\"\\"],[0,".the"]],"start1":112,"start2":112,"length1":10,"length2":8}]],"length":198,"saved":false}
+{"ts":1373953726620,"patch":[[{"diffs":[[0,"itch\"\",\n"],[-1,"\""],[0,"\".video\""]],"start1":96,"start2":96,"length1":17,"length2":16}]],"length":197,"saved":false}
+{"ts":1373953728482,"patch":[[{"diffs":[[0,"ding\"\",\n"],[-1,"\""],[0,"\".pitch\""]],"start1":84,"start2":84,"length1":17,"length2":16}]],"length":196,"saved":false}
+{"ts":1373953730232,"patch":[[{"diffs":[[0,"ding\"\",\n"],[-1,"\""],[0,"\".subhea"]],"start1":67,"start2":67,"length1":17,"length2":16}]],"length":195,"saved":false}
+{"ts":1373953731920,"patch":[[{"diffs":[[0,"about\",\n"],[-1,"\""],[0,"\".headin"]],"start1":53,"start2":53,"length1":17,"length2":16}]],"length":194,"saved":false}
+{"ts":1373953768728,"patch":[[{"diffs":[[0,".subheading\""],[-1,"\""],[0,",\n\".pitch\"\","]],"start1":75,"start2":75,"length1":25,"length2":24}]],"length":193,"saved":false}
+{"ts":1373953771215,"patch":[[{"diffs":[[0,"heading\""],[-1,"\","],[0,"\n\".subhe"]],"start1":63,"start2":63,"length1":18,"length2":16}]],"length":191,"saved":false}
+{"ts":1373953771707,"patch":[[{"diffs":[[0,"heading\""],[1,","],[0,"\n\".subhe"]],"start1":63,"start2":63,"length1":16,"length2":17}]],"length":192,"saved":false}
+{"ts":1373953776116,"patch":[[{"diffs":[[0,"\".pitch\""],[-1,"\""],[0,",\n\".vide"]],"start1":88,"start2":88,"length1":17,"length2":16}]],"length":191,"saved":false}
+{"ts":1373953787997,"patch":[[{"diffs":[[0,".footer\""],[-1,","],[0,"\n]"]],"start1":180,"start2":180,"length1":11,"length2":10}]],"length":190,"saved":false}
